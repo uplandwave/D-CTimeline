@@ -5,7 +5,7 @@
 
 <main>
   <header>
-    <h1><a href="/">D&C Timeline</a></h1>
+    <h1><a href="/D-CTimeline/">D&C Timeline</a></h1>
   </header>
   <Timeline />
 </main>
