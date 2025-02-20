@@ -18,12 +18,13 @@
   
 <style>
     .event-card {
-      background: #f9f9f9;
+      background: #efefe7;
+      background: #f8f0e4;
       padding: 10px;
       border-radius: 5px;
-      /* margin-top: 20px; */
       padding-left: 20px;
       padding-right: 20px;
+      color: #003057;
 
       h3 {
         text-align: left;
@@ -36,12 +37,18 @@
       }
       .eventDate {
         text-align: center;
+        font-size: 36px;
       }
       h2 {
         margin-top: 3px;
       }
       img {
-        max-width: 40%;
+        max-width: 500px;
+      }
+      hr {
+        height: 1px;
+        background-color: #01b6d1;
+        border:none
       }
     }
 </style>

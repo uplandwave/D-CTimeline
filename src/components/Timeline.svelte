@@ -1,6 +1,5 @@
 <script>
 // @ts-nocheck
-
     import { onMount } from 'svelte';
     import events from '../data/events.js';
     import EventCard from './EventCard.svelte';
@@ -16,7 +15,7 @@
     {#if selectedEvent}
       <EventCard {selectedEvent} />
     {:else}
-        <h2>Click a date on the time line!</h2>
+        <h2>Click a bubble on the timeline!</h2>
     {/if}
   </div>
   <div class="timeline-container">
@@ -53,6 +52,7 @@
       cursor: pointer;
       width: 10px;
       height: 10px;
+      padding: 1px;
       background: #ddd;
       border-radius: 50%;
       position: relative;
@@ -60,14 +60,21 @@
     .timeline-stop:hover .tooltip {
       display: block;
     }
+    .timeline-stop:hover {
+      background: #faa61a;
+    }
     .tooltip {
       display: none;
       position: absolute;
       bottom: 20px;
-      background: black;
-      color: white;
+      background: #006184;
+      color: #01b6d1;
+      color: #faa61a;
       padding: 5px;
       border-radius: 3px;
       white-space: nowrap;
+    }
+    h2 {
+      color: #003057;
     }
   </style>

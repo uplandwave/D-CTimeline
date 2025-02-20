@@ -1,7 +1,7 @@
 # Revelation Timeline
 
 ## Link to TimeLine
-[TimeLine](https://github.com/uplandwave)
+[TimeLine](https://uplandwave.github.io/D-CTimeline/)
 
 ## Overview
 The Revelation Timeline is a simple, interactive web app designed to visually represent key events in early Church history. The project was created as part of an LDS Institute class focused on the first half of the Doctrine and Covenants.
@@ -16,6 +16,9 @@ The Revelation Timeline is a simple, interactive web app designed to visually re
 1. The timeline is positioned at the bottom of the screen with event markers.
 2. Hovering over a marker reveals the date of the event.
 3. Clicking a marker brings up more details, including relevant D&C sections and an image.
+
+![Event](/public/photos/1.png)
+![Home](/public/photos/2.png)
 
 ## Technologies Used
 - **Svelte** – For building the interactive UI.

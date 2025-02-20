@@ -1,94 +1,94 @@
 // src/data/events.js
 export default [
   {
-    date: "April 6, 1830",
-    title: "Church Organized",
-    description: "Joseph Smith officially organized the Church of Jesus Christ of Latter-day Saints in Fayette, New York.",
-    sections: ["D&C 20", "D&C 21"],
-    image: "../photos/Joseph.jpeg"
+    date: "1820",
+    title: "First Vision",
+    description: "God the Father and His Son, Jesus Christ, appeared to Joseph Smith.",
+    sections: ["JSH 1:1–20."],
+    image: "../photos/p2.jpeg"
   },
   {
-    date: "February 16, 1832",
-    title: "Vision of the Degrees of Glory",
-    description: "Joseph Smith and Sidney Rigdon received a vision detailing the three degrees of glory.",
-    sections: ["D&C 76"],
-    image: ""
+    date: "1823",
+    title: "Moroni Vision One",
+    description: "The Angel Moroni first appeared to Joseph Smith in his room.",
+    sections: ["JSH 1:27–54."],
+    image: "../photos/p9.jpeg"
   },
   {
-    date: "July 20, 1831",
-    title: "Revelation on Zion",
-    description: "Joseph Smith received a revelation designating Independence, Missouri, as the gathering place for the Saints.",
-    sections: ["D&C 57"],
-    image: ""
+    date: "1827",
+    title: "Gold Plates",
+    description: "Joseph Smith received the golden plates from the hill cumorah.",
+    sections: ["D&C 3, 5, 8, 10"],
+    image: "../photos/p4.jpeg"
   },
   {
-    date: "December 27, 1832",
-    title: "The Word of Wisdom",
-    description: "Joseph Smith received the revelation known as the Word of Wisdom, outlining principles of health.",
-    sections: ["D&C 89"],
-    image: ""
+    date: "1829",
+    title: "Finished Translation",
+    description: "Joseph Smith completed the translation Book of Mormon from the Gold Plates.",
+    sections: ["D&C  3:5–15"],
+    image: "../photos/p1.jpeg"
   },
   {
-    date: "March 27, 1836",
-    title: "Kirtland Temple Dedication",
-    description: "The Kirtland Temple was dedicated, and many spiritual manifestations occurred.",
-    sections: ["D&C 109"],
-    image: ""
+    date: "1829",
+    title: "Priesthood Restoration",
+    description: "The Aaronic and Melchizedek Priesthoods were restored near Oakland Township Pennsylvania.",
+    sections: ["(D&C 50:26–27)"],
+    image: "../photos/p13.jpeg"
   },
   {
-    date: "April 3, 1836",
-    title: "Heavenly Visitations in the Kirtland Temple",
-    description: "Christ, Moses, Elias, and Elijah appeared to Joseph Smith and Oliver Cowdery.",
-    sections: ["D&C 110"],
-    image: ""
+    date: "1830",
+    title: "BOM Published",
+    description: "The Book of Mormon was published with a first printing of 5,000 copies.",
+    sections: ["D&C 1:21"],
+    image: "../photos/p6.jpeg"
   },
   {
-    date: "July 12, 1843",
-    title: "Revelation on Celestial Marriage",
-    description: "Joseph Smith received a revelation concerning eternal marriage and plural marriage.",
-    sections: ["D&C 132"],
-    image: ""
+    date: "1830",
+    title: "New Church",
+    description: "The Prophet Joseph Smith, the Lord commanded that His Church be organized.",
+    sections: ["D&C 115:4, D&C 20"],
+    image: "../photos/p11.jpeg"
   },
   {
-    date: "June 27, 1844",
-    title: "Martyrdom of Joseph and Hyrum Smith",
-    description: "Joseph and Hyrum Smith were martyred at Carthage Jail.",
-    sections: ["D&C 135"],
-    image: ""
+    date: "1831",
+    title: "To The Ohio",
+    description: "Kirtland, Ohio, became a gathering place for the Saints.",
+    sections: ["D&C 35, 36, 37, 38"],
+    image: "../photos/p8.jpeg"
   },
   {
-    date: "March 26, 1830",
-    title: "Book of Mormon Published",
-    description: "The Book of Mormon was published in Palmyra, New York, marking a pivotal moment in the Restoration.",
-    sections: ["D&C 19"],
-    image: ""
+    date: "1835",
+    title: "Quorum of the Twelve Apostles",
+    description: "The Quorum of the Twelve Apostles was organized, at a meeting for those who had participated in the Zion’s Camp march.",
+    sections: ["D&C 107"],
+    image: "../photos/p5.jpeg"
   },
   {
-    date: "August 17, 1835",
-    title: "Doctrine and Covenants Accepted",
-    description: "The Doctrine and Covenants was formally accepted as scripture by the Church.",
-    sections: ["D&C Introduction"],
-    image: ""
+    date: "1838",
+    title: "Liberty Jail",
+    description: "The jail in Liberty, Missouri. Joseph Smith and five other brethren were unjustly imprisoned within.",
+    sections: ["D&C 121–23"],
+    image: "../photos/p3.jpeg"
   },
   {
-    date: "October 27, 1838",
-    title: "Missouri Extermination Order",
-    description: "Governor Lilburn Boggs issued an order declaring that Mormons must be \"expelled or exterminated\" from Missouri.",
-    sections: ["D&C 121", "D&C 122", "D&C 123"],
-    image: ""
+    date: "1840",
+    title: "Baptisms In the Temple",
+    description: "Joseph Smith began teaching about baptisms for the dead.",
+    sections: ["D&C 128"],
+    image: "../photos/p10.jpeg"
   },
   {
-    date: "June 27, 1854",
-    title: "Missionaries Arrive in Hawaii",
-    description: "Early LDS missionaries arrived in Hawaii to begin preaching the gospel in the Pacific Islands.",
-    sections: ["D&C 4"],
-    image: ""
+    date: "1842",
+    title: "Endowment",
+    description: "Joseph Smith presented the endowment ordinance in Nauvoo.",
+    sections: ["D&C 105"],
+    image: "../photos/p7.jpeg"
   },
   {
-    date: "April 6, 1893",
-    title: "Salt Lake Temple Dedicated",
-    description: "After 40 years of construction, the Salt Lake Temple was dedicated by President Wilford Woodruff.",
-    sections: ["Dedicatory Prayer"],
-    image: ""
+    date: "1846",
+    title: "Nauvoo Temple",
+    description: "The Nauvoo Temple was dedicated.",
+    sections: ["D&C 124"],
+    image: "../photos/p12.jpeg"
   }
 ];
