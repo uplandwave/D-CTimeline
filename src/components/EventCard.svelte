@@ -3,17 +3,17 @@
 </script>
   
 <div class="event-card">
-    <h3 class="eventDate">{selectedEvent.date}</h3>
-    <hr>
-    <h2>{selectedEvent.title}</h2>
-    <p>{selectedEvent.description}</p>
-    <img src={selectedEvent.image} alt={selectedEvent.title}>
-    <h3>Read more in D&C Sections</h3>
-    <ul>
-        {#each selectedEvent.sections as section}
-        <li>{section}</li>
-        {/each}
-    </ul>
+  <h3 class="eventDate">{selectedEvent.date}</h3>
+  <hr>
+  <h2>{selectedEvent.title}</h2>
+  <p>{selectedEvent.description}</p>
+  <img src={selectedEvent.image} alt={selectedEvent.title}>
+  <h3>Read more in D&C Sections</h3>
+  <ul>
+      {#each selectedEvent.sections as section}
+      <li>{section}</li>
+      {/each}
+  </ul>
 </div>
   
 <style>
